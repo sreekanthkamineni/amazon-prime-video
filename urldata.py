@@ -1,0 +1,4 @@
+
+url_amz_1 = "&ie=UTF8"
+url_log = "https://www.amazon.com/ap/signin?accountStatusPolicy=P1&clientContext=134-3294007-6714516&language=en_US&openid.assoc_handle=amzn_prime_video_desktop_us&openid.claimed_id=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.identity=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0%2Fidentifier_select&openid.mode=checkid_setup&openid.ns=http%3A%2F%2Fspecs.openid.net%2Fauth%2F2.0&openid.ns.pape=http%3A%2F%2Fspecs.openid.net%2Fextensions%2Fpape%2F1.0&openid.pape.max_auth_age=0&openid.return_to=https%3A%2F%2Fwww.primevideo.com%2Fauth%2Freturn%2Fref%3Dav_auth_ap%3F_encoding%3DUTF8%26location%3D%252Fref%253Ddv_auth_ret"
+url_amz_in = "https://www.primevideo.com/region/na/search/ref=atv_sr_nxt?query=bq%3D%28and%20sort:%27featured-rank%27%20%28and%20av_secondary_genre:%27indian%27%29%29%26search-alias%3Dinstant-video%26index%3Dna-amazon-video%26av_offered_in_territory%3DIN&from="
